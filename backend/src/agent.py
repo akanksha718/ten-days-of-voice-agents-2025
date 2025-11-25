@@ -1,7 +1,6 @@
 # ======================================================
 # 🧠 DAY 4: TEACH-THE-TUTOR (BIOLOGY EDITION)
-# 👨‍⚕️ Tutorial by Dr. Abhishek
-# 🚀 Features: DNA, Cells, Nucleus & Active Recall
+
 # ======================================================
 
 import logging
@@ -12,8 +11,7 @@ from typing import Annotated, Literal, Optional
 from dataclasses import dataclass
 
 print("\n" + "🧬" * 50)
-print("🚀 BIOLOGY TUTOR - DAY 4 TUTORIAL")
-print("📚 SUBSCRIBE: https://www.youtube.com/@drabhishek.5460/videos")
+
 print("💡 agent.py LOADED SUCCESSFULLY!")
 print("🧬" * 50 + "\n")
 
